@@ -3,7 +3,7 @@ import json
 
 public_key = None
 secret_key = None
-base_url = 'http://datapagos.herokapp.com/api/v1'
+base_url = 'http://datapagos.herokuapp.com/api/v1'
 
 class Token():
 	@classmethod
